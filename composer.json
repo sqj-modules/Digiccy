@@ -1,0 +1,21 @@
+{
+    "name": "sqj-modules/digiccy",
+    "description": "数字货币模块",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sunqingjiang",
+            "email": "aiwozhe@yeah.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "laravel/framework": "^6.0",
+        "caffeinated/modules": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SQJ\\Modules\\Digiccy\\": ""
+        }
+    }
+}
